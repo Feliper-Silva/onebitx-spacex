@@ -6,7 +6,7 @@
 
 ### 📋 Sobre
 
-OneBitX formulário para embarcar na nave Spacex rumo a marte, embarque nessa aventura !
+Landing Page: OneBitX formulário para embarcar na nave Spacex rumo a marte, embarque nessa aventura !
 
 ### 🛠️ Tecnologias
 
