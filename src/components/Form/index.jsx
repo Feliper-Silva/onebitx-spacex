@@ -1,4 +1,5 @@
 import logoImg from '../../assets/logoOneBitDark.png';
+import { Button } from '../Button';
 
 import './styles.scss';
 
@@ -171,14 +172,7 @@ export const Form = () => {
           já vi todos os star wars
         </label>
       </div>
-      <div className="text-center">
-        <button
-          type="button"
-          className="btn btn-outline-success mb-3 btnSuccess"
-        >
-          Enviar
-        </button>
-      </div>
+      <Button />
     </div>
   );
 };
