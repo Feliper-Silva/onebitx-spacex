@@ -5,13 +5,8 @@
 }
 body {
   background: url('../assets/backgroundLp.png');
-  overflow-y: hidden;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: right;
   color: #fff;
-
-  @media screen and (max-width: 830px) {
-    overflow-y: visible;
-  }
 }
