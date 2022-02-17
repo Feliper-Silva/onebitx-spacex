@@ -1,9 +1,18 @@
 #formBody {
   background: #131212f1;
-  width: 29rem;
+  max-width: 29rem;
   height: auto;
 
   .topLogo {
     width: 12rem;
+  }
+  .btnSuccess {
+    color: #ff0043;
+    border: 1px solid #ff0043;
+
+    &:hover {
+      background: #ff0043;
+      color: #fff;
+    }
   }
 }
