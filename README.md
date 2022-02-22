@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 OneBitX - Rumo a marte </h1>
+<h1 align="center"> 🧑‍🚀 OneBitX - Rumo a marte </h1>
 
 <h3 align="center"> <img src="https://img.shields.io/badge/LICENSE-MIT-05122a?style=flat&logo=license" /></h3>
 
@@ -13,6 +13,21 @@ Landing Page: OneBitX formulário para embarcar na nave Spacex rumo a marte, emb
 - [ReactJs](https://reactjs.org)
 - [Bootstrap](https://getbootstrap.com/)
 - [Sass](https://sass-lang.com/)
+
+### 🚀 Utilizar:
+```bash
+# clone o repositório
+$ git clone https://github.com/Feliper-Silva/onebitx-spacex
+# entre na pasta
+$ cd onebitx-spacex
+```
+```bash
+# instalar dependências:
+$ yarn
+# iniciar projeto:
+$ yarn start
+```
+
 
 ### 📝 License
 
